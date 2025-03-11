@@ -37,7 +37,7 @@ This project was conducted at Pennsylvania State University under the guidance o
 This work was made possible through collaboration between:
 * United States Department of Transportation
 * Carnegie Mellon University
-* Pennsylvania State University
+* Pennsylvania State University (Dr. Sean Brennan)
 
 ## Timeline
 June 2024 - August 2024
